@@ -1,2 +1,3 @@
 # pengen-belajar-web
-Sedang mengumpulkan niat untuk belajar hal ini :D
+
+Ini merupakan repository saya untuk belajar hal-hal dasar mengenai Web Development.
